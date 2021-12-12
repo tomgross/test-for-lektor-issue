@@ -1,0 +1,13 @@
+title: Hallo Website
+---
+pub_date: 2021-12-10
+---
+author: Tom
+---
+description:
+
+<a href="foo.txt">DE Foo</a>
+---
+body:
+
+Beispiel Blog Post! [Kaffee](coffee.jpg)

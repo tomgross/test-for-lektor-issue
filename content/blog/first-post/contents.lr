@@ -1,0 +1,14 @@
+title: Hello Website
+---
+pub_date: 2021-12-10
+---
+author: Tom
+---
+description:
+
+<a href="foo.txt">Foo</a>
+---
+body:
+
+This is an example blog post.  Not much here but that's not the point :) [Coffee](coffee.png)
+
